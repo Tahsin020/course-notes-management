@@ -1,9 +1,11 @@
 # Backend (dotnet)
+.vs/
 bin/
 obj/
 *.user
 *.suo
-
+*.userosscache
+*.sln.docstates
 # Frontend (node)
 node_modules/
 build/
