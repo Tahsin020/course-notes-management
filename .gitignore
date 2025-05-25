@@ -1,0 +1,17 @@
+# Backend (dotnet)
+bin/
+obj/
+*.user
+*.suo
+
+# Frontend (node)
+node_modules/
+build/
+dist/
+.env
+
+# Genel
+.DS_Store
+*.log
+.vscode/
+.idea/
